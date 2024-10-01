@@ -1,34 +1,34 @@
-college_id;course_id;course_name
-101;201;Automação Industrial
-101;202;Banco de Dados
-101;203;Gestão Hospitalar
-101;204;Redes de Computadores
-101;205;Sistemas Biomédicos
-102;206;Arquitetura e Urbanismo
-102;207;Artes Visuais
-102;208;Design
-102;209;Jornalismo
-102;2010;Publicidade e Propaganda
-102;2011;Rádio, TV e Internet
-102;2012;Relações Públicas
-102;2013;Ciências Biológicas
-102;2014;Ciências da Computação
-102;2015;Ciências Matemáticas e da Terra
-102;2016;Física
-102;2017;Geografia
-102;2018;Matemática
-102;2019;Química
-102;2020;Engenharia Civil
-102;2021;Engenharia Elétrica
-102;2022;Engenharia de Produção
-102;2023;Engenharia Mecânica
-103;2024;Odontologia
-103;2025;Fonoaudiologia
-103;2026;Dentística
-103;2027;Endodontia
-103;2028;Estomatologia e Biologia Oral
-103;2029;Odontopediatria
-103;2030;Ortodontia
-103;2031;Reabilitação Oral
-103;2032;Patologia Bucal
-103;2033;Odontologia em Saúde Coletiva
+college_id;course_id;course_name;science_type
+101;201;Automação Industrial;CE
+101;202;Banco de Dados;CE
+101;203;Gestão Hospitalar;CH
+101;204;Redes de Computadores;CE
+101;205;Sistemas Biomédicos;CN
+102;206;Arquitetura e Urbanismo;CH
+102;207;Artes Visuais;CH
+102;208;Design;CH
+102;209;Jornalismo;CH
+102;2010;Publicidade e Propaganda;CH
+102;2011;Rádio, TV e Internet;CH
+102;2012;Relações Públicas;CH
+102;2013;Ciências Biológicas;CN
+102;2014;Ciências da Computação;CE
+102;2015;Ciências Matemáticas e da Terra;CE
+102;2016;Física;CE
+102;2017;Geografia;CN
+102;2018;Matemática;CE
+102;2019;Química;CN
+102;2020;Engenharia Civil;CE
+102;2021;Engenharia Elétrica;CE
+102;2022;Engenharia de Produção;CE
+102;2023;Engenharia Mecânica;CE
+103;2024;Odontologia;CN
+103;2025;Fonoaudiologia;CN
+103;2026;Dentística;CN
+103;2027;Endodontia;CN
+103;2028;Estomatologia e Biologia Oral;CN
+103;2029;Odontopediatria;CN
+103;2030;Ortodontia;CN
+103;2031;Reabilitação Oral;CN
+103;2032;Patologia Bucal;CN
+103;2033;Odontologia em Saúde Coletiva;CN

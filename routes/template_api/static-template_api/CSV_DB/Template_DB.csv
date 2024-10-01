@@ -1,0 +1,3 @@
+college_id;exam_id;template_id;template_year;template_name;template_pdf
+101;401;411;2024;Gabarito - Fatec - 1° Sem/2024;GABARITO_fatec_sem1_2024.pdf
+101;402;412;2024;Gabarito - Fatec - 2° Sem/2024;GABARITO_fatec_sem2_2024.pdf

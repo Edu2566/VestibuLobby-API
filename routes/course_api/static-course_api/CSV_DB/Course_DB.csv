@@ -32,3 +32,54 @@ college_id;course_id;course_name;science_type
 103;2031;Reabilitação Oral;CN
 103;2032;Patologia Bucal;CN
 103;2033;Odontologia em Saúde Coletiva;CN
+104;2041;Engenharia de Computação;CE
+104;2042;Engenharia de Alimentos;CE
+104;2043;Medicina;CN
+104;2044;Farmácia;CN
+104;2045;Administração;CH
+105;2046;Fisioterapia;CN
+105;2047;Educação Física;CN
+105;2048;Psicologia;CH
+105;2049;Engenharia de Produção;CE
+105;2050;Tecnologia em Produção Sucroalcooleira;CE
+106;2051;Ciência e Tecnologia;CE
+106;2052;Engenharia Aeroespacial;CE
+106;2053;Matemática Computacional;CE
+106;2054;Energia;CE
+106;2055;Engenharia de Gestão;CE
+107;2056;Enfermagem;CN
+107;2057;Medicina;CN
+107;2058;Nutrição;CN
+107;2059;Ciências Sociais;CH
+107;2060;Letras;CH
+108;2061;Direito;CH
+108;2062;Arquitetura e Urbanismo;CH
+108;2063;Engenharia Ambiental;CE
+108;2064;Química Industrial;CE
+108;2065;Ciências Biológicas;CN
+109;2066;Engenharia Mecatrônica;CE
+109;2067;Engenharia de Minas;CE
+109;2068;Filosofia;CH
+109;2069;Geologia;CN
+109;2070;História;CH
+110;2071;Engenharia Elétrica;CE
+110;2072;Agronomia;CN
+110;2073;Medicina Veterinária;CN
+110;2074;Zootecnia;CN
+110;2075;Economia;CH
+111;2076;Oceanografia;CN
+111;2077;Engenharia Sanitária e Ambiental;CE
+111;2078;Astronomia;CE
+111;2079;Relações Internacionais;CH
+111;2080;Turismo;CH
+112;2081;Engenharia Química;CE
+112;2082;Bioquímica;CN
+112;2083;Ciências Atuariais;CE
+112;2084;Física Médica;CN
+112;2085;Antropologia;CH
+113;2086;Administração Pública;CH
+113;2087;Engenharia de Software;CE
+113;2088;Engenharia de Redes de Comunicação;CE
+113;2089;Ciências Contábeis;CH
+113;2090;Políticas Públicas;CH
+

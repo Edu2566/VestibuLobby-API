@@ -40,7 +40,7 @@ college_id;course_id;course_name;science_type
 105;2046;Fisioterapia;CN
 105;2047;Educação Física;CN
 105;2048;Psicologia;CH
-105;2049;Engenharia de Produção;CE
+105;2022;Engenharia de Produção;CE
 105;2050;Tecnologia em Produção Sucroalcooleira;CE
 106;2051;Ciência e Tecnologia;CE
 106;2052;Engenharia Aeroespacial;CE
@@ -48,12 +48,12 @@ college_id;course_id;course_name;science_type
 106;2054;Energia;CE
 106;2055;Engenharia de Gestão;CE
 107;2056;Enfermagem;CN
-107;2057;Medicina;CN
+107;2043;Medicina;CN
 107;2058;Nutrição;CN
 107;2059;Ciências Sociais;CH
 107;2060;Letras;CH
 108;2061;Direito;CH
-108;2062;Arquitetura e Urbanismo;CH
+108;206;Arquitetura e Urbanismo;CH
 108;2063;Engenharia Ambiental;CE
 108;2064;Química Industrial;CE
 108;2065;Ciências Biológicas;CN

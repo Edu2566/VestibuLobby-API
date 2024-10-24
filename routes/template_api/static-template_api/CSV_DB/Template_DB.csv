@@ -1,3 +1,16 @@
 college_id;exam_id;template_id;template_year;template_name;template_pdf
 101;401;411;2024;Gabarito - Fatec - 1° Sem/2024;GABARITO_fatec_sem1_2024.pdf
 101;402;412;2024;Gabarito - Fatec - 2° Sem/2024;GABARITO_fatec_sem2_2024.pdf
+101;403;413;2023;Gabarito - Fatec - 1° Sem/2023;GABARITO_fatec_sem1_2023.pdf
+101;404;414;2023;Gabarito - Fatec - 2° Sem/2023;GABARITO_fatec_sem2_2023.pdf
+101;405;415;2019;Gabarito - Fatec - 1° Sem/2019;GABARITO_fatec_sem1_2019.pdf
+101;406;416;2019;Gabarito - Fatec - 2° Sem/2019;GABARITO_fatec_sem2_2019.pdf
+114;407;417;2023;Gabarito - ENEM 1° Dia - Caderno 1 - Azul;GABARITO_enem_2023_d1c1.pdf
+114;408;418;2023;Gabarito - ENEM 2° Dia - Caderno 7 - Azul;GABARITO_enem_2023_d2c7.pdf
+114;409;419;2022;Gabarito - ENEM 1° Dia - Caderno 1 - Azul;GABARITO_enem_2022_d1c1.pdf
+114;4010;4110;2022;Gabarito - ENEM 2° Dia - Caderno 7 - Azul;GABARITO_enem_2022_d2c7.pdf
+102;4011;4111;2023;Gabarito - Vestibular Unesp 1° Fase;GABARITO_vest_unesp_f1d1_2023.pdf
+102;4012;4112;2023;Gabarito - Vestibular Unesp 2° Fase;GABARITO_vest_unesp_f2d1_2023.pdf
+102;4013;4113;2022;Gabarito - Vestibular Unesp 1° Fase - Dia 1;GABARITO_vest_unesp_f1d1_2022.pdf
+102;4014;4114;2022;Gabarito - Vestibular Unesp 1° Fase - Dia 2;GABARITO_vest_unesp_f1d2_2022.pdf
+102;4015;4115;2022;Gabarito - Vestibular Unesp 2° Fase;GABARITO_vest_unesp_f2d1_2022.pdf

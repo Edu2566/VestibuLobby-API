@@ -1,3 +1,16 @@
 college_id;exam_id;exam_year;exam_name;exam_pdf
 101;401;2024;Fatec - 1° Sem/2024;fatec_sem1_2024.pdf
 101;402;2024;Fatec - 2° Sem/2024;fatec_sem2_2024.pdf
+101;403;2023;Fatec - 1° Sem/2023;fatec_sem1_2023.pdf
+101;404;2023;Fatec - 2° Sem/2023;fatec_sem2_2023.pdf
+101;405;2019;Fatec - 1° Sem/2019;fatec_sem1_2019.pdf
+101;406;2019;Fatec - 2° Sem/2019;fatec_sem2_2019.pdf
+114;407;2023;ENEM 1° Dia - Caderno 1 - Azul;enem_2023_d1c1.pdf
+114;408;2023;ENEM 2° Dia - Caderno 7 - Azul;enem_2023_d2c7.pdf
+114;409;2022;ENEM 1° Dia - Caderno 1 - Azul;enem_2022_d1c1.pdf
+114;4010;2022;ENEM 2° Dia - Caderno 7 - Azul;enem_2022_d2c7.pdf
+102;4011;2023;Vestibular Unesp 1° Fase;vest_unesp_f1d1_2023.pdf
+102;4012;2023;Vestibular Unesp 2° Fase;vest_unesp_f2d1_2023.pdf
+102;4013;2022;Vestibular Unesp 1° Fase - Dia 1;vest_unesp_f1d1_2022.pdf
+102;4014;2022;Vestibular Unesp 1° Fase - Dia 2;vest_unesp_f1d2_2022.pdf
+102;4015;2022;Vestibular Unesp 2° Fase;vest_unesp_f2d1_2022.pdf

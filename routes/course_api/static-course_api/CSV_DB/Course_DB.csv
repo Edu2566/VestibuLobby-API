@@ -82,4 +82,17 @@ college_id;course_id;course_name;science_type
 113;2088;Engenharia de Redes de Comunicação;CE
 113;2089;Ciências Contábeis;CH
 113;2090;Políticas Públicas;CH
-
+114;2091;Biologia - ENEM;CN
+114;2092;Física - ENEM;CN
+114;2093;Química - ENEM;CN
+114;2094;Sociologia - ENEM;CH
+114;2095;Filosofia - ENEM;CH
+114;2096;Geografia - ENEM;CN
+114;2097;História - ENEM;CH
+114;2098;Matemática - ENEM;CE
+114;2099;Português - ENEM;CH
+114;20100;Literatura - ENEM;CH
+114;20101;Língua Estrangeira - ENEM;CH
+114;20102;Artes - ENEM;CH
+114;20103;Educação Física - ENEM;CH
+114;20104;Tecnologias da Informação e Comunicação - ENEM;CE

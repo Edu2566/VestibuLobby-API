@@ -1,5 +1,18 @@
 college_id;college_location_id;college_location_name;college_addres
 101;301;Fatec - Bauru;R. Manoel Bento da Cruz, 3-30 - Centro, Bauru - SP, 17015-171
-102;302;Unesp - Bauru;Av. Eng. Luís Edmundo Carrijo Coube, 14-01 - Nucleo Res. Pres. Geisel, Bauru - SP, 17033-360
-103;303;USP - Bauru;Alameda Dr. Octávio Pinheiro Brisolla, 9-75 - Vila Regina, Bauru - SP, 17012-230
-114;314;Acesse Aqui a Página do Participante do ENEM e veja se já anunciaram o local da sua prova!;https://enem.inep.gov.br/participante/#!/
+101;302;Fatec - São Paulo;Av. Tiradentes, 615 - Bom Retiro, São Paulo - SP, 01101-010
+101;303;Fatec - Marília;Av. Castro Alves, 62 - Somenzari, Marília - SP, 17500-000
+101;304;Fatec - São Carlos;Av. Araraquara, 451 - Vila Brasilia, São Carlos - SP, 13566-770
+101;305;Fatec - Campinas;Av. Cônego Antônio Roccato, 593 - Jardim Santa Monica, Campinas - SP, 13082-015
+102;306;Unesp - Bauru;Av. Eng. Luís Edmundo Carrijo Coube, 14-01 - Nucleo Res. Pres. Geisel, Bauru - SP, 17033-360
+102;307;Unesp - São Paulo;R. Dr. Bento Teobaldo Ferraz, 271 - Barra Funda, São Paulo - SP, 01140-070
+102;308;Unesp - Marília;Av. Hygino Muzzi Filho, 737 - PORTARIA A - Mirante, Marília - SP, 17525-900
+103;309;USP - Bauru;Alameda Dr. Octávio Pinheiro Brisolla, 9-75 - Vila Regina, Bauru - SP, 17012-230
+103;3010;USP - São Paulo;R. da Reitoria, 374 - Butantã, São Paulo - SP, 05508-220
+103;3011;USP - São Caros;Av. Trab. São Carlense, 400 - Parque Arnold Schimidt, São Carlos - SP, 13566-590
+104;3012;Campus Unicamp;Cidade Universitária Zeferino Vaz - Barão Geraldo, Campinas - SP, 13083-970
+105;3013;UFSCar São Carlos;Rodovia Washington Luís, km 235 - SP-310, São Carlos - São Paulo - Brasil, CEP 13565-905
+105;3014;UFSCar Araras;Rodovia Anhanguera, km 174 - SP-330, Araras - São Paulo - Brasil, CEP 13600-970
+105;3015;UFSCar Sorocaba;Rodovia João Leme dos Santos, Km 110 - SP-264, Bairro do Itinga, Sorocaba - São Paulo - Brasil, CEP 18052-780
+105;3016;UFSCar Lagoa do Sino;Rodovia Lauri Simões de Barros, km 12 - SP-189 - Aracaçu, Buri - SP, 18290-000
+114;3017;Acesse Aqui a Página do Participante do ENEM e veja se já anunciaram o local da sua prova!;https://enem.inep.gov.br/participante/#!/

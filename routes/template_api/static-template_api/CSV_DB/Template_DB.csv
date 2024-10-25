@@ -15,11 +15,20 @@ college_id;exam_id;template_id;template_year;template_name;template_pdf
 102;4014;4114;2022;Gabarito - Vestibular Unesp 1ª Fase - Dia 2;GABARITO_vest_unesp_f1d2_2022.pdf
 102;4015;4115;2022;Gabarito - Vestibular Unesp 2ª Fase;GABARITO_vest_unesp_f2d1_2022.pdf
 103;4016;4116;2023;Gabarito - FUVEST - 1ª Fase;GABARITO_fuvest_f1d1_V_2023.pdf
-103;4017;4117;2022;Gabarito - FUVEST - 1ª Fase;GABARITO_fuvest_f1d1_V_2022.pdf
+103;4019;4117;2022;Gabarito - FUVEST - 1ª Fase;GABARITO_fuvest_f1d1_V_2022.pdf
 104;4022;4118;2023;Gabarito - Unicamp - 1ª Fase;GABARITO_unicamp_f1_2023.pdf
 104;4023;4119;2023;Gabarito - Unicamp - 2ª Fase - Língua Portuguesa e Redação;GABARITO_unicamp_f2_re_2023.pdf
 104;4024;4120;2023;Gabarito - Unicamp - 2ª Fase - Ciências Exatas;GABARITO_unicamp_f2_ce_2023.pdf
 104;4025;4121;2023;Gabarito - Unicamp - 2ª Fase - Ciências Biológicas;GABARITO_unicamp_f2_cb_2023.pdf
 104;4026;4122;2023;Gabarito - Unicamp - 2ª Fase - Ciências Humanas;GABARITO_unicamp_f2_ch_2023.pdf
 105;4027;4123;2017;Gabarito - UFSCar Indígena 2017;GABARITO_ufscar_ind_2017.pdf
-106;4028;4124;2009;Gabarito - Vestibular UFABC;GABARITO_ufabc_f1_2009
+106;4028;4124;2009;Gabarito - Vestibular UFABC;GABARITO_ufabc_f1_2009.pdf
+107;4029;4125;2022;Gabarito - UNIFESP Misto - Dia 1;GABARITO_vest_unifesp_d1_2022.pdf
+107;4031;4126;2021;Gabarito - UNIFESP Misto - Dia 1;GABARITO_vest_unifesp_d1_2021.pdf
+108;4033;4127;2011;Gabarito - UFRJ - Dia 1;GABARITO_ufrj_d1_2011.pdf
+108;4034;4128;2011;Gabarito - UFRJ - Dia 1;GABARITO_ufrj_d1_2011.pdf
+111;4035;4129;2024;Gabarito - UFSC - Prova 1 - Azul;GABARITO_ufsc_p1_azul_2024.pdf
+111;4036;4130;2024;Gabarito - UFSC - Prova 2 - Azul;GABARITO_ufsc_p2_azul_2024.pdf
+113;4037;4131;2024;Gabarito - Prova Parte 1 - Dia 1;GABARITO_unb_p1d1_2024.pdf
+113;4038;4132;2024;Gabarito - Prova Parte 2 - Dia 1;GABARITO_unb_p2d1_2024.pdf
+113;4039;4133;2024;Gabarito - Prova Parte 3 - Dia 2;GABARITO_unb_p3d2_2024.pdf

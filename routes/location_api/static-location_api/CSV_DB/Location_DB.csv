@@ -1,18 +1,42 @@
 college_id;college_location_id;college_location_name;college_addres
-101;301;Fatec - Bauru;R. Manoel Bento da Cruz, 3-30 - Centro, Bauru - SP, 17015-171
-101;302;Fatec - São Paulo;Av. Tiradentes, 615 - Bom Retiro, São Paulo - SP, 01101-010
-101;303;Fatec - Marília;Av. Castro Alves, 62 - Somenzari, Marília - SP, 17500-000
-101;304;Fatec - São Carlos;Av. Araraquara, 451 - Vila Brasilia, São Carlos - SP, 13566-770
-101;305;Fatec - Campinas;Av. Cônego Antônio Roccato, 593 - Jardim Santa Monica, Campinas - SP, 13082-015
-102;306;Unesp - Bauru;Av. Eng. Luís Edmundo Carrijo Coube, 14-01 - Nucleo Res. Pres. Geisel, Bauru - SP, 17033-360
-102;307;Unesp - São Paulo;R. Dr. Bento Teobaldo Ferraz, 271 - Barra Funda, São Paulo - SP, 01140-070
-102;308;Unesp - Marília;Av. Hygino Muzzi Filho, 737 - PORTARIA A - Mirante, Marília - SP, 17525-900
-103;309;USP - Bauru;Alameda Dr. Octávio Pinheiro Brisolla, 9-75 - Vila Regina, Bauru - SP, 17012-230
-103;3010;USP - São Paulo;R. da Reitoria, 374 - Butantã, São Paulo - SP, 05508-220
-103;3011;USP - São Caros;Av. Trab. São Carlense, 400 - Parque Arnold Schimidt, São Carlos - SP, 13566-590
-104;3012;Campus Unicamp;Cidade Universitária Zeferino Vaz - Barão Geraldo, Campinas - SP, 13083-970
-105;3013;UFSCar São Carlos;Rodovia Washington Luís, km 235 - SP-310, São Carlos - São Paulo - Brasil, CEP 13565-905
-105;3014;UFSCar Araras;Rodovia Anhanguera, km 174 - SP-330, Araras - São Paulo - Brasil, CEP 13600-970
-105;3015;UFSCar Sorocaba;Rodovia João Leme dos Santos, Km 110 - SP-264, Bairro do Itinga, Sorocaba - São Paulo - Brasil, CEP 18052-780
-105;3016;UFSCar Lagoa do Sino;Rodovia Lauri Simões de Barros, km 12 - SP-189 - Aracaçu, Buri - SP, 18290-000
-114;3017;Acesse Aqui a Página do Participante do ENEM e veja se já anunciaram o local da sua prova!;https://enem.inep.gov.br/participante/#!/
+101;301;Bauru;R. Manoel Bento da Cruz, 3-30 - Centro, Bauru - SP, 17015-171
+101;302;São Paulo;Av. Tiradentes, 615 - Bom Retiro, São Paulo - SP, 01101-010
+101;303;Marília;Av. Castro Alves, 62 - Somenzari, Marília - SP, 17500-000
+101;304;São Carlos;Av. Araraquara, 451 - Vila Brasilia, São Carlos - SP, 13566-770
+101;305;Campinas;Av. Cônego Antônio Roccato, 593 - Jardim Santa Monica, Campinas - SP, 13082-015
+102;306;Bauru;Av. Eng. Luís Edmundo Carrijo Coube, 14-01 - Nucleo Res. Pres. Geisel, Bauru - SP, 17033-360
+102;307;São Paulo;R. Dr. Bento Teobaldo Ferraz, 271 - Barra Funda, São Paulo - SP, 01140-070
+102;308;Marília;Av. Hygino Muzzi Filho, 737 - PORTARIA A - Mirante, Marília - SP, 17525-900
+103;309;Bauru;Alameda Dr. Octávio Pinheiro Brisolla, 9-75 - Vila Regina, Bauru - SP, 17012-230
+103;3010;São Paulo;R. da Reitoria, 374 - Butantã, São Paulo - SP, 05508-220
+103;3011;São Caros;Av. Trab. São Carlense, 400 - Parque Arnold Schimidt, São Carlos - SP, 13566-590
+104;3012;Campinas;Cidade Universitária Zeferino Vaz - Barão Geraldo, Campinas - SP, 13083-970
+104;3013;Limeira;R. Pedro Zaccaria, 1300, Limeira - SP, 13484-350
+104;3014;Piracicaba;Av. Limeira, 901 - Areião, Piracicaba - SP, 13414-903
+104;3015;Paulínia;Av. Alexandre Cazellato, Paulínia - SP, 13140-000
+105;3016;São Carlos;Rodovia Washington Luís, km 235 - SP-310, São Carlos - São Paulo - Brasil, CEP 13565-905
+105;3017;Araras;Rodovia Anhanguera, km 174 - SP-330, Araras - São Paulo - Brasil, CEP 13600-970
+105;3018;Sorocaba;Rodovia João Leme dos Santos, Km 110 - SP-264, Bairro do Itinga, Sorocaba - São Paulo - Brasil, CEP 18052-780
+105;3019;UFSCar Lagoa do Sino;Rodovia Lauri Simões de Barros, km 12 - SP-189 - Aracaçu, Buri - SP, 18290-000
+106;3020;Santo André;Av. dos Estados, 5001 - Bangú, Santo André - SP, 09280-560
+106;3021;São Bernardo do Campo;Al. da Universidade, s/n - Anchieta, São Bernardo do Campo - SP, 09606-045
+107;3022;São Paulo;R. Sena Madureira, 1500 - Vila Clementino, São Paulo - SP, 04021-001
+107;3023;Diadema;Av. Conceição, 123 - Centro, Diadema - SP, 09920-000
+107;3024;Guarulhos;Estr. do Caminho Velho, 333 - Jardim Nova Cidade, Guarulhos - SP, 07252-312
+108;3025;Rio de Janeiro - Cidade Universitária;R. Antônio Barros de Castro, 119 - Cidade Universitária, Rio de Janeiro - RJ, 21941-853
+108;3026;Rio de Janeiro - Praia Vermelha;Av. Pasteur, 250 - Botafogo, Rio de Janeiro - RJ, 21941-901
+108;3027;Macaé;Av. Aluizio da Silva Gomes, 50 - Granja dos Cavaleiros, Macaé - RJ, 27930-560
+109;3028;Belo Horizonte;Av. Pres. Antônio Carlos, 6627 - Pampulha, Belo Horizonte - MG, 31270-901
+109;3029;Montes Claros;Av. Universitária, 1000 - Universitário, Montes Claros - MG, 39404-547
+110;3030;Curitiba;R. XV de Novembro, 1299 - Centro, Curitiba - PR, 80060-000
+110;3031;Jandaia do Sul;R. Dr. João Maxímiano, 426 - Vila Operária, Jandaia do Sul - PR, 86900-000
+110;3032;Matinhos;Rua Jaguariaíva, 512, Matinhos - PR, 83260-000
+111;3033;Florianópolis;R. Eng. Agronômico Andrei Cristian Ferreira, s/n - Trindade, Florianópolis - SC, 88040-900
+111;3034;Joinville;Estr. Dona Francisca, 8300 - Bloco U - Zona Industrial Norte, Joinville - SC, 89219-600
+111;3035;Blumenau;R. João Pessoa, 2750 - Velha, Blumenau - SC, 89036-002
+112;3036;Campus Centro;Farroupilha, Porto Alegre - RS, 90010-150
+112;3037;Campus Saúde - ICBS;R. Ramiro Barcelos, 2600 - Santa Cecília, Porto Alegre - RS, 90035-003
+113;3038;Campus Darcy Ribeiro;s/n, UnB, Brasília - DF
+113;3039;Campus Ceilândia; Ceilândia Sul Campus Universitário - Centro Metropolitano - Brasília, DF, 72220-275
+113;3040;Campus do Gama;St. Leste Projeção A - Gama Leste, Brasília - DF, 72444-240
+114;3041;Acesse Aqui a Página do Participante do ENEM e veja se já anunciaram o local da sua prova!;https://enem.inep.gov.br/participante/#!/
